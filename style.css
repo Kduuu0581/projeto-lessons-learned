@@ -8,14 +8,10 @@ body {
 }
 
 .cabecalho {
+  top: 0px;
+  position: fixed;
   margin: 10px;
   padding: 50px;
   border: 2px;
 
 }
-
-.barra {
-    top: 0;
-    position: fixed;
-}
-
