@@ -1,13 +1,14 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+Projeto realizado para o curso de Desenvolvimento Web pela Trybe, a escola que te ensina a programar, a aprender e a trabalhar.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Habilidades Utilizadas
+
+- Utilizar HTML para construir páginas WEB.
+- Utilizar HTML semântico para tornar sua página mais acessível e melhor ranqueada.
+- Utilizar CSS para adicionar estilo e posicionar elementos.
+
+
+## Desenvolvimento
+
+- Desenvolver uma página HTML estilizada com CSS.
+- Desenvolver um site que contenha uma série de informações sobre o que você aprendeu na Trybe ao longo dos últimos três blocos. 
